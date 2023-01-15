@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Vishal-Tx
-- 👀 I’m Looking For a Web Development(Full Stack / Frontend / Backend) job
 - 🌱 I’m currently learning Nextjs
 - 📫 How to reach me Mail: vishalguptaa2z111@gmail.com
 
